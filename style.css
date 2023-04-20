@@ -1,45 +1,60 @@
 *{
-    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+
 }
+
 .title{
     text-align: center;
-    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
-    padding-top: 40px;
+    padding-top: 50px;
 }
 
-
-
-
 .container{
-
+    height:300px;
+    width:900px;
     background-color: aqua;
-    height: 275px;
-    text-align: center;
-    border-radius: 20px;
+    margin:0 auto;
+    margin-top:75px;
+    padding-top:25px;
+    border-radius: 50px;
     border: 5px solid black;
-    width: 500px;
-    margin: 0 auto;
+    padding-left: 40px;
+    padding-bottom:75px;
+}
+
+.align{
+    text-align: center;
 }
 
 .container2{
-
+    height:300px;
+    width:900px;
     background-color: aqua;
-    height: 325px;
-    text-align: center;
-    border-radius: 20px;
+    margin:0 auto;
+    margin-top:50px;
+    padding-top:25px;
+    border-radius: 50px;
     border: 5px solid black;
-    width:500px;
-    margin: 0 auto;
+    padding-left: 40px;
+    padding-bottom:50px;
 }
 
 .container3{
-    text-align: center;
-    margin: 0 auto;
+    height:250px;
+    width:900px;
+    background-color: aqua;
+    margin:0 auto;
+    margin-top:50px;
+    padding-top:25px;
+    border-radius: 50px;
+    border: 5px solid black;
+    padding-left: 40px;
+    padding-bottom:65px;
 }
 
-.butn{
-    font-size: 25px;
-    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+#subt{
+    margin-top:50px;
+    margin-left:50%;
+    padding:10px;
+    font-size: 15px;
     background-color: lime;
 }
-
